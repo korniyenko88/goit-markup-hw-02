@@ -40,6 +40,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.address-link:focus{color: #404bbf;}
 .address-link:hover {
   color: #404BBF;
 }
@@ -51,21 +52,32 @@ ul {
 .logo {
   text-decoration: none;
 }
+.button:focus{
+  color: #404BBF;
+}
 .button:hover{
-    color: #404BBF;
+    
+    background-color: #404BBF;
 }
 .button{
     color:  #FFFFFF;
     cursor: pointer;
     background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
-.h1-button{
+.section-1{
   background-color: 
   #2E2F42;
 }
-h1{
+.main-title{
   color: #FFFFFF;
   font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 
 h3{
