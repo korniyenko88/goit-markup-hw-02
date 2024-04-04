@@ -102,6 +102,22 @@ ul {
 .our-team{
   background-color: #F4F4FD;
 }
+.title-2-2{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 2.02em; 
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.section-3-title{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color:  #2e2f42;
+}
 
 footer{
   background-color: #2E2F42;
