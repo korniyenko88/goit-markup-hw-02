@@ -3,7 +3,10 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
+  font-weight: 400;
 }
+
+
 .nav-link:hover{color: #404BBF}
 
 .nav-link {
@@ -29,6 +32,30 @@ ul {
     color: #404BBF;
 }
 .button{
-    color:#434455;
+    color:  #FFFFFF;
     cursor: pointer;
+    background-color: #4D5AE5;
+}
+.h1-button{
+  background-color: 
+  #2E2F42;
+}
+h1{
+  color: #FFFFFF;
+  font-weight: 700;
+}
+
+h3{
+  font-weight: 500;
+}
+.our-team{
+  background-color: #F4F4FD;
+}
+
+footer{
+  background-color: #2E2F42;
+}
+
+.footer-p{
+  color: #F4F4FD;
 }
