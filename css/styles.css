@@ -1,5 +1,33 @@
-body{
-    font-family: "Roboto", sans-serif;
-    background-color: #FFFFFF;
-    color: #434455;
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #434455;
+}
+.nav-link:hover{color: #404BBF}
+
+.nav-link {
+  text-decoration: none;
+  color:#434455
+}
+.address-link {
+  text-decoration: none;
+  color: #434455;
+}
+.address-link:hover {
+  color: #404BBF;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo {
+  text-decoration: none;
+}
+.button:hover{
+    color: #404BBF;
+}
+.button{
+    color:#434455;
+    cursor: pointer;
 }
